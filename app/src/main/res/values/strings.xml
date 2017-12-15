@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name" translatable="false">Flash keys</string>
+    <string name="instructions">Press the image above to get started\n\nRemember that while music is playing you will not be allowed to use the volume keys to trigger the flashlight. You must turn off or pause the music in order to use this feature.</string>
+
+</resources>
